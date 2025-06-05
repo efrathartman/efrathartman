@@ -1,6 +1,6 @@
 # 👩‍💻 Efrat Hartman
 
-## 🌟 Full Stack Developer | Specializing in advanced technologies and building complex systems.🌟
+### 🌟 Full Stack Developer | Specializing in advanced technologies and building complex systems.🌟
 
 ## ** About Me **
 
